@@ -1,7 +1,7 @@
 # TIL
 
-##IOS
+## IOS
 *
 
-##SWIFT
+## SWIFT
 
