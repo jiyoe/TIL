@@ -8,6 +8,7 @@
 
 ## SWIFT
 * [변수와 상수](https://github.com/jiyoe/TIL/issues/5#issue-1719103166)
+* [자료형](https://github.com/jiyoe/TIL/issues/8#issue-1725690733)
 * [조건문](https://github.com/jiyoe/TIL/issues/6#issue-1720895336)
 * [반복문](https://github.com/jiyoe/TIL/issues/7#issue-1723174874)
 * [inheritance(상속)](https://github.com/jiyoe/TIL/issues/3#issue-1717097707)
