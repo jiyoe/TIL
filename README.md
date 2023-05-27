@@ -5,10 +5,11 @@
 * [viewcontroller 생명주기](https://github.com/jiyoe/TIL/issues/9#issue-1726892182)
 * [UITableview Datasource, Delegate](https://github.com/jiyoe/TIL/issues/1#issue-1714010917)
 * [Static](https://github.com/jiyoe/TIL/issues/2#issue-1715748517)
-* 
+
 
 
 ## SWIFT
+* [타입 추론과 타입어노테이션](https://github.com/jiyoe/TIL/issues/10#issue-1728391956)
 * [변수와 상수](https://github.com/jiyoe/TIL/issues/5#issue-1719103166)
 * [자료형](https://github.com/jiyoe/TIL/issues/8#issue-1725690733)
 * [조건문](https://github.com/jiyoe/TIL/issues/6#issue-1720895336)
