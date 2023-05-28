@@ -10,6 +10,7 @@
 
 ## SWIFT
 * [타입 추론과 타입어노테이션](https://github.com/jiyoe/TIL/issues/10#issue-1728391956)
+* [스위프트의 문법 특성](https://github.com/jiyoe/TIL/issues/11#issue-1729255377)
 * [변수와 상수](https://github.com/jiyoe/TIL/issues/5#issue-1719103166)
 * [자료형](https://github.com/jiyoe/TIL/issues/8#issue-1725690733)
 * [조건문](https://github.com/jiyoe/TIL/issues/6#issue-1720895336)
