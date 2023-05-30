@@ -16,6 +16,7 @@
 * [자료형](https://github.com/jiyoe/TIL/issues/8#issue-1725690733)
 * [조건문](https://github.com/jiyoe/TIL/issues/6#issue-1720895336)
 * [반복문](https://github.com/jiyoe/TIL/issues/7#issue-1723174874)
+* [프로토콜](https://github.com/jiyoe/TIL/issues/13#issue-1732376402)
 * [inheritance(상속)](https://github.com/jiyoe/TIL/issues/3#issue-1717097707)
 * [NotificationCenter](https://github.com/jiyoe/TIL/issues/4#issue-1718377844)
 
