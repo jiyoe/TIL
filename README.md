@@ -1,5 +1,8 @@
 # TIL
 
+## CS
+* [컴퓨터의 구성요소](https://github.com/jiyoe/TIL/issues/14#issue-1734176678)
+
 ## IOS
 
 * [viewcontroller 생명주기](https://github.com/jiyoe/TIL/issues/9#issue-1726892182)
