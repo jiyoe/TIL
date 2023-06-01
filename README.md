@@ -16,6 +16,7 @@
 * [스위프트의 문법 특성](https://github.com/jiyoe/TIL/issues/11#issue-1729255377)
 * [제어전달문](https://github.com/jiyoe/TIL/issues/12#issue-1730219491)
 * [변수와 상수](https://github.com/jiyoe/TIL/issues/5#issue-1719103166)
+* [함수](https://github.com/jiyoe/TIL/issues/15#issue-1735628131)
 * [자료형](https://github.com/jiyoe/TIL/issues/8#issue-1725690733)
 * [조건문](https://github.com/jiyoe/TIL/issues/6#issue-1720895336)
 * [반복문](https://github.com/jiyoe/TIL/issues/7#issue-1723174874)
