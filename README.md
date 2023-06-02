@@ -17,6 +17,7 @@
 * [제어전달문](https://github.com/jiyoe/TIL/issues/12#issue-1730219491)
 * [변수와 상수](https://github.com/jiyoe/TIL/issues/5#issue-1719103166)
 * [함수](https://github.com/jiyoe/TIL/issues/15#issue-1735628131)
+* [함수 - 매개변수와 전달인자](https://github.com/jiyoe/TIL/issues/16#issue-1737365052)
 * [자료형](https://github.com/jiyoe/TIL/issues/8#issue-1725690733)
 * [조건문](https://github.com/jiyoe/TIL/issues/6#issue-1720895336)
 * [반복문](https://github.com/jiyoe/TIL/issues/7#issue-1723174874)
