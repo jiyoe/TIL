@@ -7,6 +7,7 @@
 
 * [viewcontroller 생명주기](https://github.com/jiyoe/TIL/issues/9#issue-1726892182)
 * [App 생명주기](https://github.com/jiyoe/TIL/issues/23#issue-1749744536)
+* [Cocoa touch Framework](https://github.com/jiyoe/TIL/issues/24#issue-1750973112)
 * [UIKit](https://github.com/jiyoe/TIL/issues/22#issue-1747894681)
 * [UITableview Datasource, Delegate](https://github.com/jiyoe/TIL/issues/1#issue-1714010917)
 * [Static](https://github.com/jiyoe/TIL/issues/2#issue-1715748517)
