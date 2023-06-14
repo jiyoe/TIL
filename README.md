@@ -23,6 +23,7 @@
 * [스위프트의 문법 특성](https://github.com/jiyoe/TIL/issues/11#issue-1729255377)
 * [제어전달문](https://github.com/jiyoe/TIL/issues/12#issue-1730219491)
 * [변수와 상수](https://github.com/jiyoe/TIL/issues/5#issue-1719103166)
+* [구조체와 클래스](https://github.com/jiyoe/TIL/issues/28#issue-1755918130)
 * [함수](https://github.com/jiyoe/TIL/issues/15#issue-1735628131)
 * [함수 - 매개변수와 전달인자](https://github.com/jiyoe/TIL/issues/16#issue-1737365052)
 * [함수 - 일급객체 함수](https://github.com/jiyoe/TIL/issues/17#issue-1739458837)
