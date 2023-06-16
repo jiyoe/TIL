@@ -22,6 +22,7 @@
 * [타입 추론과 타입어노테이션](https://github.com/jiyoe/TIL/issues/10#issue-1728391956)
 * [스위프트의 문법 특성](https://github.com/jiyoe/TIL/issues/11#issue-1729255377)
 * [쿼우팅](https://github.com/jiyoe/TIL/issues/29#issue-1758749606)
+* [자료형](https://github.com/jiyoe/TIL/issues/30#issue-1760540869)
 * [제어전달문](https://github.com/jiyoe/TIL/issues/12#issue-1730219491)
 * [변수와 상수](https://github.com/jiyoe/TIL/issues/5#issue-1719103166)
 * [구조체와 클래스](https://github.com/jiyoe/TIL/issues/28#issue-1755918130)
