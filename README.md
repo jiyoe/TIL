@@ -11,6 +11,7 @@
 * [UIKit](https://github.com/jiyoe/TIL/issues/22#issue-1747894681)
 * [HIG](https://github.com/jiyoe/TIL/issues/26#issue-1752637809)
 * [프레임워크와 라이브러리](https://github.com/jiyoe/TIL/issues/27#issue-1754511105)
+* [Move to Trash vs Remove Reference](https://github.com/jiyoe/TIL/issues/32#issue-1761810358)
 * [UITableview Datasource, Delegate](https://github.com/jiyoe/TIL/issues/1#issue-1714010917)
 * [Static](https://github.com/jiyoe/TIL/issues/2#issue-1715748517)
 * [HTTP](https://github.com/jiyoe/TIL/issues/18#issue-1740156446)
