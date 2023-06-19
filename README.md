@@ -9,6 +9,7 @@
 * [App 생명주기](https://github.com/jiyoe/TIL/issues/23#issue-1749744536)
 * [Cocoa touch Framework](https://github.com/jiyoe/TIL/issues/24#issue-1750973112)
 * [UIKit](https://github.com/jiyoe/TIL/issues/22#issue-1747894681)
+* [앱에 데이터 저장하기](https://github.com/jiyoe/TIL/issues/34#issue-1763753287)
 * [HIG](https://github.com/jiyoe/TIL/issues/26#issue-1752637809)
 * [프레임워크와 라이브러리](https://github.com/jiyoe/TIL/issues/27#issue-1754511105)
 * [Move to Trash vs Remove Reference](https://github.com/jiyoe/TIL/issues/32#issue-1761810358)
