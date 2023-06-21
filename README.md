@@ -17,6 +17,7 @@
 * [Static](https://github.com/jiyoe/TIL/issues/2#issue-1715748517)
 * [HTTP](https://github.com/jiyoe/TIL/issues/18#issue-1740156446)
 * [RESTful / HTTPS](https://github.com/jiyoe/TIL/issues/19#issue-1740649233)
+* [메모리 구조Code,Data,Stack,Heap](https://github.com/jiyoe/TIL/issues/35#issue-1767445159)
 
 
 
