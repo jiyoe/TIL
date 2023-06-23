@@ -19,6 +19,7 @@
 * [RESTful / HTTPS](https://github.com/jiyoe/TIL/issues/19#issue-1740649233)
 * [메모리 구조Code,Data,Stack,Heap](https://github.com/jiyoe/TIL/issues/35#issue-1767445159)
 * [do-catch, try](https://github.com/jiyoe/TIL/issues/36#issue-1768673421)
+* [enum](https://github.com/jiyoe/TIL/issues/37#issue-1771528817)
 
 
 ## SWIFT
