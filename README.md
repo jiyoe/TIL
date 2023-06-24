@@ -24,6 +24,7 @@
 
 ## SWIFT
 * [타입 추론과 타입어노테이션](https://github.com/jiyoe/TIL/issues/10#issue-1728391956)
+* [타입 캐스팅](https://github.com/jiyoe/TIL/issues/38#issue-1772718139)
 * [스위프트의 문법 특성](https://github.com/jiyoe/TIL/issues/11#issue-1729255377)
 * [쿼우팅](https://github.com/jiyoe/TIL/issues/29#issue-1758749606)
 * [자료형](https://github.com/jiyoe/TIL/issues/30#issue-1760540869)
