@@ -20,6 +20,7 @@
 * [메모리 구조Code,Data,Stack,Heap](https://github.com/jiyoe/TIL/issues/35#issue-1767445159)
 * [do-catch, try](https://github.com/jiyoe/TIL/issues/36#issue-1768673421)
 * [enum](https://github.com/jiyoe/TIL/issues/37#issue-1771528817)
+* [실제 디바이스가 없을경우 개발환경에서 할수있는것과 없는것](https://github.com/jiyoe/TIL/issues/41#issue-1775972905)
 
 
 ## SWIFT
