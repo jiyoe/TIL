@@ -47,4 +47,5 @@
 * [Optional 옵셔널](https://github.com/jiyoe/TIL/issues/25#issue-1751427735)
 * [ARC란?](https://github.com/jiyoe/TIL/issues/39#issue-1773232240)
 * [initializer](https://github.com/jiyoe/TIL/issues/40#issue-1774853757)
+* [initializer_2](https://github.com/jiyoe/TIL/issues/42#issue-1777861160)
 
