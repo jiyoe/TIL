@@ -25,6 +25,7 @@
 * [앱이 In - active 상태가 되는 시나리오](https://github.com/jiyoe/TIL/issues/44#issue-1781637953)
 * [ios 앱을 만들고 user interface를 구성하는데 필수적인 프레임워크 이름은?](https://github.com/jiyoe/TIL/issues/45#issue-1784499290)
 * [상태변화 따라 다른 동작을 처리하기 위한 앱 델리케이트 메서드](https://github.com/jiyoe/TIL/issues/46#issue-1785023482)
+* [UIApplication 객체의 컨드롤러 역할은 어디에 구현](https://github.com/jiyoe/TIL/issues/47#issue-1786866085)
 
 
 ## SWIFT
