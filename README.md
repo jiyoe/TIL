@@ -27,6 +27,7 @@
 * [상태변화 따라 다른 동작을 처리하기 위한 앱 델리케이트 메서드](https://github.com/jiyoe/TIL/issues/46#issue-1785023482)
 * [UIApplication 객체의 컨드롤러 역할은 어디에 구현](https://github.com/jiyoe/TIL/issues/47#issue-1786866085)
 * [UIKit 클래스들을 다룰때 꼭 처리해야하는 애플리케이션 쓰레드 이름](https://github.com/jiyoe/TIL/issues/48#issue-1789530880)
+* [앱화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체](https://github.com/jiyoe/TIL/issues/49#issue-1790523678)
 
 
 ## SWIFT
