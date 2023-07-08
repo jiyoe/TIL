@@ -29,6 +29,7 @@
 * [UIKit 클래스들을 다룰때 꼭 처리해야하는 애플리케이션 쓰레드 이름](https://github.com/jiyoe/TIL/issues/48#issue-1789530880)
 * [앱화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체](https://github.com/jiyoe/TIL/issues/49#issue-1790523678)
 * [view객체](https://github.com/jiyoe/TIL/issues/50#issue-1793496867)
+* [UIStackView의 장점](https://github.com/jiyoe/TIL/issues/51#issue-1794958810)
 
 
 ## SWIFT
