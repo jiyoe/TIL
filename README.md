@@ -63,3 +63,4 @@
 * [App bundle의 구조](https://github.com/jiyoe/TIL/issues/54#issue-1797667906)
 * [View객체](https://github.com/jiyoe/TIL/issues/50#issue-1793496867)
 * [UIStackView의 장점](https://github.com/jiyoe/TIL/issues/51#issue-1794958810)
+* [UINavigationController의 역할](https://github.com/jiyoe/TIL/issues/55#issue-1800783333)
