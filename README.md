@@ -49,6 +49,7 @@
 * [ARC란?](https://github.com/jiyoe/TIL/issues/39#issue-1773232240)
 * [Initializer](https://github.com/jiyoe/TIL/issues/40#issue-1774853757)
 * [Initializer_2](https://github.com/jiyoe/TIL/issues/42#issue-1777861160)
+* [인스턴스](https://github.com/jiyoe/TIL/issues/56#issue-1802864210)
 
 ## 면접 공부할 내용들 
 * [실제 디바이스가 없을경우 개발환경에서 할수있는것과 없는것](https://github.com/jiyoe/TIL/issues/41#issue-1775972905)
