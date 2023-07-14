@@ -65,3 +65,4 @@
 * [View객체](https://github.com/jiyoe/TIL/issues/50#issue-1793496867)
 * [UIStackView의 장점](https://github.com/jiyoe/TIL/issues/51#issue-1794958810)
 * [UINavigationController의 역할](https://github.com/jiyoe/TIL/issues/55#issue-1800783333)
+* [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는가](https://github.com/jiyoe/TIL/issues/57#issue-1804915450)
