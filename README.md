@@ -61,7 +61,8 @@
 * [앱이 foreground,background에 있을때 어떤 제약사항이 있는가?](https://github.com/jiyoe/TIL/issues/61#issue-1809697455)
 * [상태변화 따라 다른 동작을 처리하기 위한 앱 델리케이트 메서드](https://github.com/jiyoe/TIL/issues/46#issue-1785023482)
 * [앱이 In - active 상태가 되는 시나리오](https://github.com/jiyoe/TIL/issues/44#issue-1781637953)
-* [UIApplication 객체의 컨드롤러 역할은 어디에 구현](https://github.com/jiyoe/TIL/issues/47#issue-1786866085)
+* [UIApplication 객체의 컨트롤러 역할은 어디에 구현](https://github.com/jiyoe/TIL/issues/47#issue-1786866085)
+* [app의 not running, inactive, background, suspended?](https://github.com/jiyoe/TIL/issues/63#issue-1813727652)
 * [ios 앱을 만들고 user interface를 구성하는데 필수적인 프레임워크 이름은?](https://github.com/jiyoe/TIL/issues/45#issue-1784499290)
 
 
