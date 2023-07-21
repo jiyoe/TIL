@@ -65,7 +65,6 @@
 * [app의 not running, inactive, background, suspended?](https://github.com/jiyoe/TIL/issues/63#issue-1813727652)
 * [ios 앱을 만들고 user interface를 구성하는데 필수적인 프레임워크 이름은?](https://github.com/jiyoe/TIL/issues/45#issue-1784499290)
 
-
 * [UIKit 클래스들을 다룰때 꼭 처리해야하는 애플리케이션 쓰레드 이름](https://github.com/jiyoe/TIL/issues/48#issue-1789530880)
 * [customview 만들기](https://github.com/jiyoe/TIL/issues/58#issue-1806053118)
 * [App bundle의 구조](https://github.com/jiyoe/TIL/issues/54#issue-1797667906)
