@@ -73,4 +73,5 @@
 * [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는가](https://github.com/jiyoe/TIL/issues/57#issue-1804915450)
 * [UIWindow 객체의 역할](https://github.com/jiyoe/TIL/issues/66#issue-1816934204)
 * [UINavigationController의 역할](https://github.com/jiyoe/TIL/issues/55#issue-1800783333)
+* [Tableview를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메소드](https://github.com/jiyoe/TIL/issues/67#issue-1817333540)
 * [UIStackView의 장점](https://github.com/jiyoe/TIL/issues/51#issue-1794958810)
