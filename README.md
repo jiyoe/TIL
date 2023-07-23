@@ -67,10 +67,10 @@
 * [FoundationKit 은 무엇이고 포함되어있는 클래스들은 어떤것이 있는가?](https://github.com/jiyoe/TIL/issues/64#issue-1815810598)
 * [Delegate 란 ? retain 되는지 안되는지 그리고 그 이유 ](https://github.com/jiyoe/TIL/issues/65#issue-1816467007)
 * [UIKit 클래스들을 다룰때 꼭 처리해야하는 애플리케이션 쓰레드 이름](https://github.com/jiyoe/TIL/issues/48#issue-1789530880)
-* [customview 만들기](https://github.com/jiyoe/TIL/issues/58#issue-1806053118)
 * [App bundle의 구조](https://github.com/jiyoe/TIL/issues/54#issue-1797667906)
+* [customview 만들기](https://github.com/jiyoe/TIL/issues/58#issue-1806053118)
 * [View객체](https://github.com/jiyoe/TIL/issues/50#issue-1793496867)
-* [UIStackView의 장점](https://github.com/jiyoe/TIL/issues/51#issue-1794958810)
-* [UINavigationController의 역할](https://github.com/jiyoe/TIL/issues/55#issue-1800783333)
 * [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는가](https://github.com/jiyoe/TIL/issues/57#issue-1804915450)
 
+* [UINavigationController의 역할](https://github.com/jiyoe/TIL/issues/55#issue-1800783333)
+* [UIStackView의 장점](https://github.com/jiyoe/TIL/issues/51#issue-1794958810)
