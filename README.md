@@ -22,7 +22,7 @@
 * [do-catch, try](https://github.com/jiyoe/TIL/issues/36#issue-1768673421)
 * [Enum](https://github.com/jiyoe/TIL/issues/37#issue-1771528817)
 * [비동기/동기](https://github.com/jiyoe/TIL/issues/68#issue-1820276674)
-
+* [스레드 Thread](https://github.com/jiyoe/TIL/issues/69#issue-1822303348)
 
 
 ## SWIFT
