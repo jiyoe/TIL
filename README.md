@@ -23,6 +23,7 @@
 * [Enum](https://github.com/jiyoe/TIL/issues/37#issue-1771528817)
 * [비동기/동기](https://github.com/jiyoe/TIL/issues/68#issue-1820276674)
 * [스레드 Thread](https://github.com/jiyoe/TIL/issues/69#issue-1822303348)
+* [Strong,weak,unowned](https://github.com/jiyoe/TIL/issues/70#issue-1824212954)
 
 
 ## SWIFT
