@@ -24,6 +24,7 @@
 * [비동기/동기](https://github.com/jiyoe/TIL/issues/68#issue-1820276674)
 * [스레드 Thread](https://github.com/jiyoe/TIL/issues/69#issue-1822303348)
 * [Strong,weak,unowned](https://github.com/jiyoe/TIL/issues/70#issue-1824212954)
+* [class와 struct의 차이](https://github.com/jiyoe/TIL/issues/71#issue-1826453405)
 
 
 ## SWIFT
