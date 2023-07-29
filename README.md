@@ -25,6 +25,7 @@
 * [스레드 Thread](https://github.com/jiyoe/TIL/issues/69#issue-1822303348)
 * [Strong,weak,unowned](https://github.com/jiyoe/TIL/issues/70#issue-1824212954)
 * [class와 struct의 차이](https://github.com/jiyoe/TIL/issues/71#issue-1826453405)
+* [래퍼런스 카운트](https://github.com/jiyoe/TIL/issues/72#issue-1827470261)
 
 
 ## SWIFT
