@@ -29,6 +29,7 @@
 * [래퍼런스 카운트](https://github.com/jiyoe/TIL/issues/72#issue-1827470261)
 * [Autolayout Constraint의 Priority의 개념, 어떤상황에 사용하는지?](https://github.com/jiyoe/TIL/issues/73#issue-1827841817)
 * [Escaping Closure의 개념](https://github.com/jiyoe/TIL/issues/74#issue-1829038526)
+* [접근 제어자의 종류](https://github.com/jiyoe/TIL/issues/76#issue-1833055864)
 
 
 ## SWIFT
