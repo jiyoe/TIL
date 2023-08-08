@@ -7,7 +7,7 @@
 
 ## IOS
 
-*[Xocde 단축키](https://github.com/jiyoe/TIL/issues/79#issue-1837624303)
+* [Xocde 단축키](https://github.com/jiyoe/TIL/issues/79#issue-1837624303)
 * [extension](https://github.com/jiyoe/TIL/issues/75#issue-1830299245)
 * [Viewcontroller 생명주기](https://github.com/jiyoe/TIL/issues/9#issue-1726892182)
 * [App 생명주기](https://github.com/jiyoe/TIL/issues/23#issue-1749744536)
