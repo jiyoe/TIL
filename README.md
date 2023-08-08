@@ -62,6 +62,7 @@
 * [Initializer_2](https://github.com/jiyoe/TIL/issues/42#issue-1777861160)
 * [인스턴스](https://github.com/jiyoe/TIL/issues/56#issue-1802864210)
 * [인스턴스메소드와 타입메소드의 차이점](https://github.com/jiyoe/TIL/issues/78#issue-1836010369)
+* [AnyObject](https://github.com/jiyoe/TIL/issues/81#issue-1840429066)
 
 ## 면접 공부할 내용들 
 * [실제 디바이스가 없을경우 개발환경에서 할수있는것과 없는것](https://github.com/jiyoe/TIL/issues/41#issue-1775972905)
