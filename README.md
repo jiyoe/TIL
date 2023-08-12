@@ -89,3 +89,6 @@
 * [UINavigationController의 역할](https://github.com/jiyoe/TIL/issues/55#issue-1800783333)
 * [Tableview를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메소드](https://github.com/jiyoe/TIL/issues/67#issue-1817333540)
 * [UIStackView의 장점](https://github.com/jiyoe/TIL/issues/51#issue-1794958810)
+
+## 스크랩 
+* [스마트폰용 촉각디스플레이](https://github.com/jiyoe/TIL/issues/83#issue-1846717280)
