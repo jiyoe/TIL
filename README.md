@@ -1,5 +1,7 @@
 # TIL
 
+* [agile 애자일 방법론](https://github.com/jiyoe/TIL/issues/87#issue-1857610099)
+
 ## CS
 * [컴퓨터의 구성요소](https://github.com/jiyoe/TIL/issues/14#issue-1734176678)
 * [빠른 CPU를 위한 설계 기법](https://github.com/jiyoe/TIL/issues/77#issue-1834297836)
