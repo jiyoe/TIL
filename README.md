@@ -68,6 +68,7 @@
 * [AnyObject](https://github.com/jiyoe/TIL/issues/81#issue-1840429066)
 * [뷰가 보일때 호출되는 함수들](https://github.com/jiyoe/TIL/issues/82#issue-1844325283)
 * [#Selector](https://github.com/jiyoe/TIL/issues/85#issue-1851045887)
+* [Argument/parameter](https://github.com/jiyoe/TIL/issues/89#issue-1857984409)
 
 ## 면접 공부할 내용들 
 * [실제 디바이스가 없을경우 개발환경에서 할수있는것과 없는것](https://github.com/jiyoe/TIL/issues/41#issue-1775972905)
