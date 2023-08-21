@@ -99,5 +99,5 @@
 * [스마트폰용 촉각디스플레이](https://github.com/jiyoe/TIL/issues/83#issue-1846717280)
 
 
-## class 
+## Method 
 * [pageControl,UISwipeGestureRecognizer](https://github.com/jiyoe/TIL/issues/84#issue-1849407444)
