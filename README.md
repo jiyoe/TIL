@@ -103,7 +103,8 @@
 ## Method 
 * [pageControl,UISwipeGestureRecognizer](https://github.com/jiyoe/TIL/issues/84#issue-1849407444)
 * [instantiateViewController(withIdentifier:)](https://github.com/jiyoe/TIL/issues/91#issue-1860355571)
+* [collectionView(_:numberOfItemsInSection:)](https://github.com/jiyoe/TIL/issues/94#issue-1868091469)
 
 
 ## ... 
-* [webKit 웹사용 설정] (https://github.com/jiyoe/TIL/issues/90#issue-1858418446)
+* [webKit 웹사용 설정](https://github.com/jiyoe/TIL/issues/90#issue-1858418446)
