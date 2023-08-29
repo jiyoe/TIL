@@ -104,6 +104,7 @@
 * [pageControl,UISwipeGestureRecognizer](https://github.com/jiyoe/TIL/issues/84#issue-1849407444)
 * [instantiateViewController(withIdentifier:)](https://github.com/jiyoe/TIL/issues/91#issue-1860355571)
 * [collectionView(_:numberOfItemsInSection:)](https://github.com/jiyoe/TIL/issues/94#issue-1868091469)
+* [NotificationCenter](https://github.com/jiyoe/TIL/issues/95#issue-1870675092)
 
 
 ## ... 
