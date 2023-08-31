@@ -1,8 +1,7 @@
 # TIL
 
 * [agile 애자일 방법론](https://github.com/jiyoe/TIL/issues/87#issue-1857610099)
-* 
-
+  
 ## CS
 * [컴퓨터의 구성요소](https://github.com/jiyoe/TIL/issues/14#issue-1734176678)
 * [빠른 CPU를 위한 설계 기법](https://github.com/jiyoe/TIL/issues/77#issue-1834297836)
@@ -111,3 +110,4 @@
 ## ... 
 * [webKit 웹사용 설정](https://github.com/jiyoe/TIL/issues/90#issue-1858418446)
 * [카메라허용,앨범허용,마이크허용](https://github.com/jiyoe/TIL/issues/96#issue-1872772603)
+* [외부라이브러리 다운로드 pod init](https://github.com/jiyoe/TIL/issues/97#issue-1874758739)
