@@ -70,6 +70,7 @@
 * [#Selector](https://github.com/jiyoe/TIL/issues/85#issue-1851045887)
 * [Argument/parameter](https://github.com/jiyoe/TIL/issues/89#issue-1857984409)
 * [MARK](https://github.com/jiyoe/TIL/issues/93#issue-1867152723)
+* [Closure](https://github.com/jiyoe/TIL/issues/98#issue-1877377304)
 
 ## 면접 공부할 내용들 
 * [실제 디바이스가 없을경우 개발환경에서 할수있는것과 없는것](https://github.com/jiyoe/TIL/issues/41#issue-1775972905)
