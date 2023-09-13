@@ -8,6 +8,7 @@
 * [RAM의 특징과 종류](https://github.com/jiyoe/TIL/issues/80#issue-1838769190)
 * [하드디스크](https://github.com/jiyoe/TIL/issues/92#issue-1865140055)
 * [RAID](https://github.com/jiyoe/TIL/issues/102#issue-1887044212)
+* [입출력방법](https://github.com/jiyoe/TIL/issues/104#issue-1889047355)
 * [입출력장치](https://github.com/jiyoe/TIL/issues/103#issue-1888727785)
 * [운영체제](https://github.com/jiyoe/TIL/issues/105#issue-1892331833)
 
