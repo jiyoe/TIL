@@ -13,6 +13,7 @@
 * [입출력장치](https://github.com/jiyoe/TIL/issues/103#issue-1888727785)
 * [운영체제](https://github.com/jiyoe/TIL/issues/105#issue-1892331833)
 * [프로세스 process](https://github.com/jiyoe/TIL/issues/109#issue-1899754490)
+* [프로세스 상태](https://github.com/jiyoe/TIL/issues/110#issue-1900177803)
 
 ## IOS
 
