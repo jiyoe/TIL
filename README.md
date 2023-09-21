@@ -16,6 +16,7 @@
 * [프로세스 상태](https://github.com/jiyoe/TIL/issues/110#issue-1900177803)
 * [프로세스 계층구조](https://github.com/jiyoe/TIL/issues/111#issue-1901907557)
 * [스레드](https://github.com/jiyoe/TIL/issues/112#issue-1904714398)
+* [프로세스 스케줄링](https://github.com/jiyoe/TIL/issues/113#issue-1906151039)
 
 ## IOS
 
