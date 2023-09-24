@@ -121,6 +121,7 @@
 * [NotificationCenter](https://github.com/jiyoe/TIL/issues/95#issue-1870675092)
 * [UICollectionViewDelegateFlowLayout](https://github.com/jiyoe/TIL/issues/106#issue-1897548483)
 * [UIViewControllerRepresentable](https://github.com/jiyoe/TIL/issues/115#issue-1909625746)
+* [register(_:forCellReuseIdentifier:)](https://github.com/jiyoe/TIL/issues/116#issue-1910236701)
 
 
 ## ... 
