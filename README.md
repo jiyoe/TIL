@@ -120,7 +120,7 @@
 * [collectionView(_:numberOfItemsInSection:)](https://github.com/jiyoe/TIL/issues/94#issue-1868091469)
 * [NotificationCenter](https://github.com/jiyoe/TIL/issues/95#issue-1870675092)
 * [UICollectionViewDelegateFlowLayout](https://github.com/jiyoe/TIL/issues/106#issue-1897548483)
-* * [UIViewControllerRepresentable](https://github.com/jiyoe/TIL/issues/115#issue-1909625746)
+* [UIViewControllerRepresentable](https://github.com/jiyoe/TIL/issues/115#issue-1909625746)
 
 
 ## ... 
