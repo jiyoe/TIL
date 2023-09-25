@@ -18,6 +18,7 @@
 * [스레드](https://github.com/jiyoe/TIL/issues/112#issue-1904714398)
 * [프로세스 스케줄링](https://github.com/jiyoe/TIL/issues/113#issue-1906151039)
 * [CPU 스케줄링 알고리즘](https://github.com/jiyoe/TIL/issues/114#issue-1908001864)
+* [동기화란?](https://github.com/jiyoe/TIL/issues/117#issue-1910882848)
 
 
 ## IOS
