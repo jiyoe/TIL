@@ -19,6 +19,7 @@
 * [프로세스 스케줄링](https://github.com/jiyoe/TIL/issues/113#issue-1906151039)
 * [CPU 스케줄링 알고리즘](https://github.com/jiyoe/TIL/issues/114#issue-1908001864)
 * [동기화란?](https://github.com/jiyoe/TIL/issues/117#issue-1910882848)
+* [동기화 기법](https://github.com/jiyoe/TIL/issues/118#issue-1913457119)
 
 
 ## IOS
