@@ -5,6 +5,7 @@
   
 ## CS
 * [컴퓨터의 구성요소](https://github.com/jiyoe/TIL/issues/14#issue-1734176678)
+* [컴퓨터 전원을 켤때 일어나는일](https://github.com/jiyoe/TIL/issues/120#issue-1917703664)
 * [빠른 CPU를 위한 설계 기법](https://github.com/jiyoe/TIL/issues/77#issue-1834297836)
 * [RAM의 특징과 종류](https://github.com/jiyoe/TIL/issues/80#issue-1838769190)
 * [하드디스크](https://github.com/jiyoe/TIL/issues/92#issue-1865140055)
