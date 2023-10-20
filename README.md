@@ -90,6 +90,7 @@
 * [Closure](https://github.com/jiyoe/TIL/issues/98#issue-1877377304)
 * [Codable](https://github.com/jiyoe/TIL/issues/99#issue-1878295160)
 * [비교연산자](https://github.com/jiyoe/TIL/issues/122#issue-1951507336)
+* [논리연산자](https://github.com/jiyoe/TIL/issues/123)
 
 ## 면접 공부할 내용들 
 * [실제 디바이스가 없을경우 개발환경에서 할수있는것과 없는것](https://github.com/jiyoe/TIL/issues/41#issue-1775972905)
