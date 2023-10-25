@@ -124,3 +124,4 @@
 * [webKit 웹사용 설정](https://github.com/jiyoe/TIL/issues/90#issue-1858418446)
 * [카메라허용,앨범허용,마이크허용](https://github.com/jiyoe/TIL/issues/96#issue-1872772603)
 * [외부라이브러리 다운로드 pod init](https://github.com/jiyoe/TIL/issues/97#issue-1874758739)
+* [selection controls](https://github.com/jiyoe/TIL/issues/124#issue-1959023073)
