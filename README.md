@@ -53,6 +53,7 @@
 * [Escaping Closure의 개념](https://github.com/jiyoe/TIL/issues/74#issue-1829038526)
 * [접근 제어자의 종류](https://github.com/jiyoe/TIL/issues/76#issue-1833055864)
 * [URL Session](https://github.com/jiyoe/TIL/issues/119#issue-1914966488)
+* [@IBInspectable, @IBDesignable](https://github.com/jiyoe/TIL/issues/126#issue-1967013472)
 
 
 ## SWIFT
